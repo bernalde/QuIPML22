@@ -1,0 +1,33 @@
+# configuration
+# fill in the course details
+ 
+courseName: QuIPML - Quantum Integer Programming and Quantum Machine Learning
+
+# small title that is at the top of every page
+subtitle: 47-779 / 47-785, 18-819F course syllabus - Fall 2022
+
+# baseurl is the same as the name of the repository
+baseurl: /QuIPML22
+
+# url where the required reading is available to download
+docsUrl: "" 
+
+# url where the student's grading info is kept
+gradingUrl: "" 
+
+# url where the Github repository is
+repoUrl: "https://github.com/bernalde/QuIPML22"
+
+
+# change only if you know what you are doing
+collections:
+  syllabus:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: syllabus
+    values:
+      layout: unit
+
+theme: jekyll-theme-slate
