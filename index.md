@@ -10,7 +10,7 @@ menuPosition: 1
 
 Mondays and Wednesdays 4:40 p.m. - 6:30 p.m. EST. Room 2701 Tepper Quad.
 
-You can review our previous courses on Quantum Integer Programming Fall 2020 [here](https://bernalde.github.io/QuIP/) and Quantum Integer Programming and Machine Learning Fall 2021 [here](https://bernalde.github.io/QuIPML/).
+You can review our previous courses on Quantum Integer Programming Fall 2020 [here](https://bernalde.github.io/QuIP/) <!-- and Quantum Integer Programming and Machine Learning Fall 2021 [here](https://bernalde.github.io/QuIPML/). -->
 
 Lecturers: Prof. Sridhar Tayur (4216 Tepper Quad), Prof. Elias Towe (Roberts Engineering Hall 147).
 
