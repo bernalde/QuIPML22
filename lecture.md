@@ -12,10 +12,10 @@ Here you can access all the lecture slides.
 - Lecture 0: Course Overview.<br>
 <a href="slides/QUIP and QML Lecture 0 - Course Overview.pdf" download>Slides</a>
 
-<!-- 
+
 - Lecture 1: Review of Linear Algebra I.<br>
 <a href="slides/QUIP and QML Lecture 1 - Review of Linear Algebra I.pdf" download>Slides</a>
-
+<!-- 
 - Lecture 2: Review of Linear Algebra II.<br>
 <a href="slides/QUIP and QML Lecture 2 - Review of Linear Algebra II.pdf" download>Slides</a>
 
