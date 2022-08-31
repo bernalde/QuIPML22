@@ -14,7 +14,7 @@ Here you can access all the lecture slides.
 
 
 - Lecture 1: Review of Linear Algebra I.<br>
-<a href="slides/18-819F Lecture 1 - Review of Linear Algebra I.pptx" download>Slides</a>
+<a href="slides/18-819F Lecture 1 - Review of Linear Algebra I.pdf" download>Slides</a>
 
  
 <!-- - Lecture 2: Review of Linear Algebra II.<br>
