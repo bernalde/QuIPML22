@@ -17,10 +17,10 @@ Here you can access all the lecture slides.
 <a href="slides/18-819F Lecture 1 - Review of Linear Algebra I.pdf" download>Slides</a>
 
  
-<!-- - Lecture 2: Review of Linear Algebra II.<br>
-<a href="slides/QUIP and QML Lecture 2 - Review of Linear Algebra II.pdf" download>Slides</a>
+- Lecture 2: Review of Linear Algebra II.<br>
+<a href="slides/18-819F Lecture 2 - Review of Linear Algebra II.pdf" download>Slides</a>
 
-- Lecture 3: Mathematical Programming.<br>
+<!-- - Lecture 3: Mathematical Programming.<br>
 <a href="slides/QUIP and QML Lecture 3 - Mathematical Programming.pdf" download>Slides</a>
 
 - Lecture 4: Introduction to Machine Learning.<br>
