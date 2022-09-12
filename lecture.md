@@ -20,7 +20,7 @@ Here you can access all the lecture slides.
 - Lecture 2: Review of Linear Algebra II.<br>
 <a href="slides/18-819F Lecture 2 - Review of Linear Algebra II.pdf" download>Slides</a>
 
-- Lecture 3: Mathematical Programming.<br>
+- Lecture 3: Introduction to Machine Learning.<br>
 <a href="slides/18-819F Lecture 3 - Introduction to Marchine Learning I.pdf" download>Slides</a>
 
 <!-- - Lecture 4: Introduction to Machine Learning.<br>
