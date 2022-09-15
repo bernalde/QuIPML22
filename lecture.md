@@ -23,10 +23,10 @@ Here you can access all the lecture slides.
 - Lecture 3: Introduction to Machine Learning.<br>
 <a href="slides/18-819F Lecture 3 - Introduction to Marchine Learning I.pdf" download>Slides</a>
 
-<!-- - Lecture 4: Introduction to Machine Learning.<br>
-<a href="slides/QUIP and QML Lecture 4 - Introduction to Machine Learning.pdf" download>Slides</a>
+- Lecture 4: Introduction to Machine Learning.<br>
+<a href="slides/18-819F Lecture 4 - Deep Learning.pdf" download>Slides</a>
 
-- Lecture 5: Ising and QUBO.<br>
+<!-- - Lecture 5: Ising and QUBO.<br>
 <a href="slides/QUIP and QML Lecture 5 - Ising and QUBO.pdf" download>Slides</a>
 
 - Lecture 6: Deep Learning.<br>
