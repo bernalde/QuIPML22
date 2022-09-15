@@ -112,7 +112,8 @@ USRA Collaboration
 Amazon Braket Collaboration
 - Access to [D-Wave](https://aws.amazon.com/braket/hardware-providers/dwave/), [IonQ](https://aws.amazon.com/braket/hardware-providers/ionq/) and [Rigetti](https://aws.amazon.com/braket/hardware-providers/rigetti/ ) is also made possible through [Amazon Braket](https://aws.amazon.com/braket/).  
 
-<!-- 
 # Full Syllabus
-The complete syllabus can be downloaded <a href="syllabus/QuIPML_Syllabus_2021.pdf" download>here.</a>
+The complete syllabus can be downloaded <a href="syllabus/QuIPML_Syllabus_2022.pdf" download>here.</a>
+
+<!-- 
 -->
