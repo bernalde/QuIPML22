@@ -26,6 +26,15 @@ Here you can access all the lecture slides.
 - Lecture 4: Deep Learning.<br>
 <a href="slides/18-819F Lecture 4 - Deep Learning.pdf" download>Slides</a>
 
+- Lecture 5: Convolutional Neural Networks.<br>
+<a href="slides/18-819F Lecture 5 - Convolutional Neural Networks.pdf" download>Slides</a>
+
+- Lecture 5.1: Convolutional Neural Networks Tutorial.<br>
+<a href="slides/18-819F CNN_TutorialsAnnotated.pdf" download>Slides</a>
+
+- Lecture 6: Mathematical Programming.<br>
+<a href="slides/18-819F Lecture 6 - Mathematical Programming.pdf" download>Slides</a>
+
 <!-- - Lecture 5: Ising and QUBO.<br>
 <a href="slides/QUIP and QML Lecture 5 - Ising and QUBO.pdf" download>Slides</a>
 
