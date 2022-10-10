@@ -47,9 +47,15 @@ Here you can access all the lecture slides.
 - Lecture 10: Axioms of Quantum Mechanics.<br>
 <a href="slides/QUIP and QML Lecture 10 - Axioms of Quantum Mechanics.pdf" download>Slides</a>
 
+- Lecture X: Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.<br>
+<a href="slides/18-891F Lecture X - Subscribing to AWS Braket, DWave, IBM Qiskit and USRA RIACS.pdf" download>Slides</a>
+
 
 - Lecture 11: Introduction to Quantum Gates and Circuits.<br>
 <a href="slides/18-819F Lecture 11 - Introduction to Quantum Gates and Circuits.pdf" download>Slides</a>
+
+
+
 
 <!-- - Lecture 7: Convolutional Neural Networks.<br>
 <a href="slides/QUIP and QML Lecture 7 - Convolutional Neural Networks.pdf" download>Slides</a>
