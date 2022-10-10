@@ -44,6 +44,12 @@ Here you can access all the lecture slides.
 - Lecture 9: Quantum Annealing, Quantum-Inspired Heuristics, Benchmarking, and Parameter settings.<br>
 <a href="slides/18-819F Lecture 9 - Quantum Annealing, Quantum-Inspired Heuristics, Benchmarking, and Parameter setting.pdf" download>Slides</a>
 
+- Lecture 10: Axioms of Quantum Mechanics.<br>
+<a href="slides/QUIP and QML Lecture 10 - Axioms of Quantum Mechanics.pdf" download>Slides</a>
+
+
+- Lecture 11: Introduction to Quantum Gates and Circuits.<br>
+<a href="slides/18-819F Lecture 11 - Introduction to Quantum Gates and Circuits.pdf" download>Slides</a>
 
 <!-- - Lecture 7: Convolutional Neural Networks.<br>
 <a href="slides/QUIP and QML Lecture 7 - Convolutional Neural Networks.pdf" download>Slides</a>
