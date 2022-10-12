@@ -55,6 +55,9 @@ Here you can access all the lecture slides.
 <a href="slides/18-819F Lecture 11 - Introduction to Quantum Gates and Circuits.pdf" download>Slides</a>
 
 
+- Lecture 12: NISQ Optimization.<br>
+<a href="slides/18-819FLecture12-NISQOptimization.pdf" download>Slides</a>
+
 
 
 <!-- - Lecture 7: Convolutional Neural Networks.<br>
