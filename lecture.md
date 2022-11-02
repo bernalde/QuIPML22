@@ -58,6 +58,12 @@ Here you can access all the lecture slides.
 - Lecture 12: NISQ Optimization.<br>
 <a href="slides/18-819FLecture12-NISQOptimization.pdf" download>Slides</a>
 
+- Lecture 13: First Look at Quantum Algorithms Deutsch’s Problem.<br>
+<a href="slides/18-819F Lecture 13 - First Look at Quantum Algorithms Deutsch’s Problem.pdf" download>Slides</a>
+
+- Lecture 14: Quantum Fourier Transform.pdf.<br>
+<a href="slides/18-819F Lecture 14 - Quantum Fourier Transform.pdf" download>Slides</a>
+
 
 
 <!-- - Lecture 7: Convolutional Neural Networks.<br>
