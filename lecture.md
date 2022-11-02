@@ -64,6 +64,10 @@ Here you can access all the lecture slides.
 - Lecture 14: Quantum Fourier Transform.pdf.<br>
 <a href="slides/18-819F Lecture 14 - Quantum Fourier Transform.pdf" download>Slides</a>
 
+- Lecture 15: Quantum Phase Estimation and Linear Algebraic Systems.pdf.<br>
+<a href="slides/18-819F Lecture 15 - Quantum Phase Estimation and Linear Algebraic Systems.pdf" download>Slides</a>
+
+
 
 
 <!-- - Lecture 7: Convolutional Neural Networks.<br>
